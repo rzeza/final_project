@@ -1,0 +1,23 @@
+	(1)
+VARIABLES	fertility
+	
+gdp	1.18e-05***
+	(2.41e-06)
+inf_mortality	0.0219***
+	(0.00115)
+education	-0.124***
+	(0.0186)
+gender	-0.0332***
+	(0.00734)
+unemployment	-0.0116**
+	(0.00457)
+pollution	-0.0123***
+	(0.00457)
+Constant	4.944***
+	(0.315)
+	
+Observations	818
+Number of co1	174
+R-squared	0.582
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
